@@ -9,4 +9,4 @@ The Semantic elements has been added to help structure the code thats been creat
 Alt attributes are added so it specifies an alternate text for an area, if the image cannot be displayed.
 
 Below is the Screenshot of the website
-![Image of how the webpage looks](./Screen Shot.png)
+![screenshot](./screenshot.png)
