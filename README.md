@@ -8,7 +8,7 @@ With that note i have refactored the code for a marketing agency called Horiseon
 
 Website URL: https://akhilasrinagula.github.io/HTML-CSS-Challenge/
 
-Repository URL:
+Repository URL: https://github.com/AkhilaSrinagula/HTML-CSS-Challenge.git
 
 # Screenshot
 
